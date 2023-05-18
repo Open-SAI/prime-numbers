@@ -38,3 +38,17 @@ The progression B is in the form 6n-1
 * Base Code [https://www.geeksforgeeks.org/prime-numbers/]
 * Math review [https://math.stackexchange.com/questions/895992/6n1-and-6n-1-prime-format]
 
+<!--
+PRACTICA (pipeline)...
+1. comprender el problema (pi,números primos,..,..,..,..)
+2. plantear un algoritmo (lápiz & papel)
+3. escribir código (revisar códigos / reutilizar códigos)
+4. escribir código básico (iterativo, escalable)
+5. documentar codigo (...)
+6. versionar documentos (código + artefactos)
+7. publicar (mostrar)
+	- github/gitlab
+	- NO publicar sin licencia, ni contexto
+	- escribir en inglés
+	- dar créditos
+-->
